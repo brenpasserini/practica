@@ -1,7 +1,9 @@
-Buenas!! 
+Hola Mundo!! 
 
-Hoy es 09/01/22 y he vuelto a practicar GIT para mantener los conceptos que tengo en la mente. Es decir, afianzar los conocimientos.
+He vuelto a practicar GIT para mantener los conceptos que tengo en la mente. 
 
+Es decir, afianzar los conocimientos.
 
+Todo proceso de aprendizaje conlleva tiempo.
 
 To be continued.
